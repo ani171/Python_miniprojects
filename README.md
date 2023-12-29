@@ -9,3 +9,5 @@ Created a simple Hangman game in Python. The program prompts the user to enter t
 ## Calculator
 
 Developed a simple Python mini calculator with basic arithmetic operations (addition, subtraction, multiplication, and division). Users can choose an operation and input two numbers, obtaining the result instantly. The program incorporates error handling for division by zero, ensuring a seamless user experience.
+
+![image](https://github.com/ani171/Python_miniprojects/assets/97838595/2ae1bb86-a9ad-4361-ba2d-97501a445ac4)
